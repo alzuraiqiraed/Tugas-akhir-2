@@ -1,19 +1,20 @@
 # 🌐 Portfolio Pribadi — Raed Basheer  
 
-Selamat datang di repositori **Portfolio Saya**! 🎨  
-Proyek ini merupakan website statis yang saya buat menggunakan **HTML dan CSS** sebagai latihan membangun halaman web sederhana namun profesional.  
+Website ini adalah proyek **Portfolio Pribadi** yang dibuat menggunakan **HTML dan CSS** sebagai bagian dari latihan web development dasar.  
+Tujuan utama proyek ini adalah menampilkan profil pribadi, keahlian, serta hasil pekerjaan sederhana dalam bentuk website yang responsif dan menarik.
 
 ---
 
-## 📋 Deskripsi  
+## 📋 Deskripsi Proyek  
 
-Website ini berfungsi sebagai **portofolio pribadi** yang menampilkan informasi tentang diri saya, keahlian, beberapa proyek sederhana yang telah saya kerjakan, serta formulir kontak untuk berkomunikasi.  
+Website ini terdiri dari beberapa section utama:
 
-Struktur website ini terdiri dari empat bagian utama:
-1. **Tentang Saya** – Perkenalan singkat mengenai diri saya dan minat saya di dunia web development.  
-2. **Keahlian** – Menampilkan kemampuan saya dalam HTML, CSS, dan desain web dengan tampilan progress bar.  
-3. **Projek** – Beberapa hasil latihan seperti website formulir, layout dasar, dan portofolio lengkap.  
-4. **Kontak** – Formulir sederhana untuk mengirim pesan atau umpan balik.  
+1. **Header & Navigasi** — Menampilkan nama portfolio dan tautan navigasi antar bagian.  
+2. **Tentang Saya (About)** — Berisi deskripsi singkat tentang diri saya serta foto profil.  
+3. **Keahlian (Skills)** — Menampilkan kemampuan HTML, CSS, dan desain web dengan progress bar.  
+4. **Projek (Projects)** — Daftar proyek yang telah saya kerjakan selama pembelajaran.  
+5. **Kontak (Contact)** — Formulir sederhana untuk mengirim pesan.  
+6. **Footer** — Informasi hak cipta dan penutup website.  
 
 ---
 
@@ -22,7 +23,15 @@ Struktur website ini terdiri dari empat bagian utama:
 | Teknologi | Deskripsi |
 |------------|------------|
 | **HTML5** | Struktur utama halaman web |
-| **CSS3** | Desain tampilan, layout, dan efek visual |
-| **GitHub Pages (opsional)** | Untuk menampilkan website ini secara online |
+| **CSS3** | Styling, layout, dan desain responsif |
+| **Git & GitHub** | Manajemen versi dan publikasi proyek |
 
 ---
+
+## ⚙️ Langkah-Langkah Instalasi & Penggunaan  
+
+Ikuti langkah berikut untuk menjalankan proyek di komputer lokal:
+
+1. **Clone repository ini**  
+   ```bash
+   git clone https://github.com/username/portfolio-saya.git
