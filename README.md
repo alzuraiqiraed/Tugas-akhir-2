@@ -26,6 +26,3 @@ Struktur website ini terdiri dari empat bagian utama:
 | **GitHub Pages (opsional)** | Untuk menampilkan website ini secara online |
 
 ---
-
-## 📁 Struktur Folder  
-
